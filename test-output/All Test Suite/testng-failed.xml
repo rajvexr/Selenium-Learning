@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="C:/Java/learningSel2(failed)">
+    <classes>
+      <class name="com.qt.selenium.mouseHoverTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="test"/>
+        </methods>
+      </class> <!-- com.qt.selenium.mouseHoverTest -->
+    </classes>
+  </test> <!-- C:/Java/learningSel2(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
